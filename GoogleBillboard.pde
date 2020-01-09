@@ -9,9 +9,6 @@ public void setup()
 			break;
 		}
 	}   
-    
-	 
-
 }  
 public void draw()  
 {   
